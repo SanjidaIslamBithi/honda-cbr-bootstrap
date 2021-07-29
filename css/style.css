@@ -1,0 +1,64 @@
+.head-colr{
+    background: #264653;
+}
+.pgr-text{
+    color: #E0E0E0;
+}
+.login{ 
+    color:#FFFFFF;
+    background: #E76F51;
+    border-radius: 5px;
+
+}
+.puches-button{
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 168px;
+    height: 44px;
+    color:#FFFFFF;
+    background: #E76F51;
+    border-radius: 5px;
+
+}
+.clr-p{
+    color: #E76F51;
+}
+/* gray scaling blue bike */
+.gray-scale{
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
+  .readButton{
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .readButton:hover{
+      background-color: #E76F51;
+      color:white;
+
+  }
+
+.user{
+    
+    width: 149px;
+    left: 87px;
+    top: 40px;
+    height: 149px;
+    margin: 30px 0px;
+}
+.star{
+    color: #E77C40;
+    margin: 15px 0px;
+}
+.name{
+    color: #23A6F0;
+
+}
+.sizepic{
+    width: 431px;
+    left: 157px;
+    height: 423px;
+    top: 3173px;
+
+}
